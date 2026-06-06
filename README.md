@@ -6,7 +6,7 @@
 
   <p><em>Prebuilt Arch Linux package for <a href="https://github.com/ahmoodio/aurora">Aurora</a></em></p>
 
-  [![AUR](https://img.shields.io/aur/version/aurora-gui-bin?style=flat&color=7C3AED&logo=arch-linux&logoColor=white)](https://aur.archlinux.org/packages/aurora)
+  [![AUR](https://img.shields.io/aur/version/aurora-gui-bin?style=flat&color=7C3AED&logo=arch-linux&logoColor=white)](https://aur.archlinux.org/packages/aurora-gui-bin)
   [![License](https://img.shields.io/github/license/ahmoodio/aurora?style=flat&color=7C3AED)](https://github.com/ahmoodio/aurora/blob/main/LICENSE)
 </div>
 
